@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25047'
     url: http://www.gutenberg.org/2009/agents/25047
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22028#The-War-Service-of-the-1-4-Royal-Berkshire-Regiment--T.-F.-
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-07-09'
 gutenberg_type: Text
