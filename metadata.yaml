@@ -1,0 +1,30 @@
+_repo: The-War-Service-of-the-1-4-Royal-Berkshire-Regiment--T.-F.-_22028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cruttwell, C. R. M. F. (Charles Robert Mowbray Fraser)
+    alias: Cruttwell, Charles Robert Mowbray Fraser
+    birthdate: 1887
+    deathdate: 1941
+    gutenberg_agent_id: '25047'
+    url: http://www.gutenberg.org/2009/agents/25047
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22028'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Great Britain. Army. Princess Charlotte of Wales'' (Royal Berkshire) Regiment.
+  1/4 Battalion'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+title: The War Service of the 1/4 Royal Berkshire Regiment (T. F.)
+url: http://www.gutenberg.org/ebooks/22028
